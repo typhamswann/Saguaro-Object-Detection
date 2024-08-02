@@ -1,0 +1,505 @@
+Filename,Ground Truth,Predicted
+10_2000_03_12_509.jpg,{},{}
+10_2000_03_22_518.jpg,{},{}
+10_2000_03_30_525.jpg,{'Bud': 7},{'Budrotation': 3}
+10_2000_04_01_526.jpg,{'Bud': 9},{'Budrotation': 3}
+10_2000_04_05_530.jpg,{'Bud': 15},"{'Budrotation': 9, 'Flowerrotation': 1}"
+10_2000_04_08_531.jpg,{'Bud': 23},{'Budrotation': 13}
+10_2000_04_10_533.jpg,"{'Flower': 2, 'Bud': 21}","{'Flowerrotation': 2, 'Budrotation': 15}"
+10_2015_01_01_151.jpg,"{'Green Fruit': 30, 'Red Fruit': 8}","{'Red Fruitrotation': 4, 'Green Fruitrotation': 22}"
+10_2017_04_25_99.jpg,{},{}
+10_2017_05_13_142.jpg,{'Bud': 21},{'Budrotation': 19}
+10_2017_05_24_145.jpg,"{'Bud': 16, 'Green Fruit': 3, 'Flower': 1}","{'Green Fruitrotation': 2, 'Budrotation': 14, 'Flowerrotation': 1}"
+10_2017_05_29_146.jpg,"{'Green Fruit': 5, 'Bud': 10, 'Flower': 1}","{'Green Fruitrotation': 3, 'Budrotation': 2, 'Flowerrotation': 2}"
+10_2017_06_02_123.jpg,"{'Green Fruit': 10, 'Bud': 1}","{'Green Fruitrotation': 8, 'Budrotation': 1}"
+10_2017_06_17_111.jpg,{'Green Fruit': 8},{'Green Fruitrotation': 7}
+10_2018_05_16_538.jpg,{'Bud': 39},{'Budrotation': 33}
+10_2018_05_17_539.jpg,"{'Bud': 38, 'Flower': 1}","{'Flowerrotation': 1, 'Budrotation': 31}"
+10_2018_05_21_542.jpg,"{'Bud': 26, 'Green Fruit': 4, 'Flower': 1}","{'Budrotation': 23, 'Flowerrotation': 1, 'Green Fruitrotation': 3}"
+10_2018_05_25_546.jpg,"{'Bud': 22, 'Green Fruit': 6}","{'Budrotation': 19, 'Green Fruitrotation': 4}"
+10_2018_06_01_554.jpg,"{'Green Fruit': 14, 'Bud': 6, 'Flower': 2}","{'Flowerrotation': 2, 'Budrotation': 8, 'Green Fruitrotation': 8}"
+10_2018_06_27_575.jpg,"{'Green Fruit': 11, 'Red Fruit': 5}","{'Red Fruitrotation': 4, 'Green Fruitrotation': 9}"
+10_2018_07_06_582.jpg,"{'Green Fruit': 1, 'Red Fruit': 2}","{'Green Fruitrotation': 1, 'Red Fruitrotation': 2}"
+10_2019_04_10_54.jpg,{},{}
+10_2019_05_17_1.jpg,{},{}
+10_2019_05_23_47.jpg,{},{}
+10_2019_05_28_48.jpg,{},{}
+10_2019_06_12_75.jpg,{},{}
+10_2019_06_13_19.jpg,{},{}
+10_2019_07_03_82.jpg,{},{}
+10_2019_07_24_90.jpg,{},{}
+10_2020_05_08_436.jpg,{'Bud': 27},{'Budrotation': 18}
+10_2020_05_16_443.jpg,{'Bud': 31},{'Budrotation': 20}
+10_2020_07_13_494.jpg,{},{}
+10_2021_04_05_289.jpg,{},{'Red Fruitrotation': 1}
+10_2021_04_12_295.jpg,{},{}
+10_2021_04_19_301.jpg,{'Bud': 7},{'Budrotation': 5}
+10_2021_04_29_310.jpg,{'Bud': 27},"{'Budrotation': 13, 'Red Fruitrotation': 1}"
+10_2021_05_02_313.jpg,{'Bud': 56},{'Budrotation': 36}
+10_2021_05_04_317.jpg,{'Bud': 57},{'Budrotation': 39}
+10_2021_05_08_324.jpg,{'Bud': 71},{'Budrotation': 47}
+10_2021_05_13_329.jpg,"{'Bud': 68, 'Flower': 1}","{'Flowerrotation': 1, 'Budrotation': 46, 'Red Fruitrotation': 1}"
+10_2021_05_23_337.jpg,"{'Bud': 27, 'Green Fruit': 18, 'Flower': 1}","{'Budrotation': 21, 'Green Fruitrotation': 9, 'Flowerrotation': 2}"
+10_2021_06_04_357.jpg,"{'Green Fruit': 26, 'Flower': 1, 'Bud': 3}","{'Green Fruitrotation': 8, 'Flowerrotation': 1}"
+10_2021_06_07_363.jpg,{'Green Fruit': 32},{'Green Fruitrotation': 21}
+10_2021_06_10_370.jpg,{'Green Fruit': 30},{'Green Fruitrotation': 23}
+10_2021_06_16_376.jpg,"{'Green Fruit': 24, 'Red Fruit': 3}","{'Green Fruitrotation': 15, 'Red Fruitrotation': 1}"
+10_2021_06_17_378.jpg,"{'Green Fruit': 27, 'Red Fruit': 3}","{'Green Fruitrotation': 17, 'Red Fruitrotation': 1}"
+10_2021_06_18_377.jpg,"{'Green Fruit': 25, 'Red Fruit': 2}","{'Green Fruitrotation': 16, 'Red Fruitrotation': 2}"
+10_2021_07_06_396.jpg,{'Red Fruit': 2},{'Red Fruitrotation': 1}
+10_2021_07_13_400.jpg,{},{}
+10_2022_05_31_258.jpg,{},{}
+10_2022_06_11_266.jpg,{},{}
+10_2022_06_23_273.jpg,{},{}
+10_2022_07_01_279.jpg,{},{}
+10_2022_07_13_286.jpg,{},{}
+10_2023_04_08_153.jpg,{},{}
+10_2023_05_11_174.jpg,{'Bud': 25},{'Budrotation': 20}
+10_2023_05_16_178.jpg,"{'Bud': 49, 'Flower': 1}","{'Budrotation': 35, 'Flowerrotation': 1}"
+10_2023_05_20_182.jpg,"{'Flower': 5, 'Bud': 42}","{'Budrotation': 34, 'Flowerrotation': 4}"
+10_2023_05_31_194.jpg,"{'Green Fruit': 24, 'Bud': 21, 'Flower': 5}","{'Green Fruitrotation': 12, 'Budrotation': 16, 'Flowerrotation': 4}"
+10_2023_06_06_199.jpg,"{'Green Fruit': 41, 'Bud': 4}","{'Green Fruitrotation': 20, 'Budrotation': 4}"
+10_2023_06_16_207.jpg,{'Green Fruit': 45},{'Green Fruitrotation': 22}
+10_2023_06_21_210.jpg,{'Green Fruit': 36},{'Green Fruitrotation': 25}
+10_2023_07_06_215.jpg,"{'Green Fruit': 4, 'Red Fruit': 13}","{'Red Fruitrotation': 10, 'Green Fruitrotation': 4}"
+10_2023_07_18_218.jpg,{},{}
+1_2000_03_19_135.jpg,{},{}
+1_2000_04_01_86.jpg,{},{}
+1_2000_04_02_112.jpg,{},{}
+1_2000_04_08_128.jpg,{},{}
+1_2015_01_01_154.jpg,{},{}
+1_2015_01_01_155.jpg,{},{}
+1_2018_05_17_141.jpg,{},{}
+1_2018_05_24_143.jpg,{},{}
+1_2018_07_03_107.jpg,{},{}
+1_2018_07_16_82.jpg,{},{}
+1_2019_04_10_220.jpg,{},{}
+1_2019_04_26_233.jpg,{},{}
+1_2019_05_09_244.jpg,{},{}
+1_2019_05_10_245.jpg,{},{}
+1_2019_06_12_273.jpg,{},{}
+1_2019_06_19_279.jpg,{},{}
+1_2019_06_20_280.jpg,{},{}
+1_2019_06_25_294.jpg,{},{}
+1_2019_06_29_284.jpg,{},{}
+1_2019_07_04_288.jpg,{},{}
+1_2019_07_12_296.jpg,{},{}
+1_2019_07_24_302.jpg,{},{}
+1_2019_08_02_307.jpg,{},{}
+1_2020_04_07_399.jpg,{},{}
+1_2020_05_16_435.jpg,{},{}
+1_2020_05_27_443.jpg,{},{}
+1_2020_05_29_445.jpg,{},{}
+1_2020_06_08_454.jpg,{},{}
+1_2020_06_19_466.jpg,{},{}
+1_2021_05_05_339.jpg,{},{}
+1_2021_05_15_346.jpg,{},{}
+1_2021_05_26_352.jpg,{},{}
+1_2021_06_06_359.jpg,{},{}
+1_2021_06_09_364.jpg,{},{}
+1_2021_06_18_371.jpg,{},{}
+1_2021_07_21_396.jpg,{},{}
+1_2022_04_04_7.jpg,{},{}
+1_2022_05_02_37.jpg,{},{}
+1_2022_05_12_39.jpg,{},{}
+1_2022_05_14_3.jpg,{},{}
+1_2022_05_23_45.jpg,{},{}
+1_2022_06_07_10.jpg,{},{}
+1_2022_06_24_59.jpg,{},{}
+1_2022_07_09_14.jpg,{},{}
+1_2023_05_12_177.jpg,{},{}
+1_2023_05_23_185.jpg,{},{}
+1_2023_05_24_186.jpg,{},{'Red Fruitrotation': 1}
+36_2000_03_13_226.jpg,{},{}
+36_2000_04_03_245.jpg,{'Bud': 21},{'Budrotation': 22}
+36_2000_04_09_250.jpg,{'Bud': 30},{'Budrotation': 20}
+36_2000_04_12_253.jpg,"{'Bud': 25, 'Flower': 3}","{'Budrotation': 22, 'Flowerrotation': 3}"
+36_2017_04_18_500.jpg,{},{'Budrotation': 2}
+36_2017_05_24_516.jpg,{'Bud': 40},{'Budrotation': 35}
+36_2017_05_25_517.jpg,"{'Flower': 3, 'Bud': 44}","{'Flowerrotation': 3, 'Budrotation': 33}"
+36_2017_06_03_523.jpg,"{'Bud': 29, 'Flower': 2, 'Green Fruit': 7}","{'Budrotation': 27, 'Flowerrotation': 2, 'Green Fruitrotation': 7}"
+36_2018_05_30_269.jpg,"{'Green Fruit': 19, 'Bud': 4}","{'Green Fruitrotation': 12, 'Budrotation': 3}"
+36_2018_06_26_291.jpg,{'Red Fruit': 2},{'Red Fruitrotation': 2}
+36_2018_07_06_299.jpg,{},{}
+36_2019_04_09_307.jpg,{},{}
+36_2019_04_13_311.jpg,{},{}
+36_2019_04_18_315.jpg,{'Bud': 12},{'Budrotation': 9}
+36_2019_04_25_321.jpg,{'Bud': 29},{'Budrotation': 19}
+36_2019_05_01_327.jpg,"{'Bud': 51, 'Flower': 2}","{'Flowerrotation': 2, 'Budrotation': 45}"
+36_2019_05_06_331.jpg,"{'Bud': 53, 'Flower': 4, 'Green Fruit': 4}","{'Flowerrotation': 3, 'Budrotation': 39, 'Green Fruitrotation': 4}"
+36_2019_05_18_342.jpg,"{'Bud': 47, 'Flower': 5, 'Green Fruit': 13}","{'Flowerrotation': 3, 'Budrotation': 39, 'Green Fruitrotation': 9}"
+36_2019_05_23_347.jpg,"{'Flower': 5, 'Bud': 43, 'Green Fruit': 12}","{'Flowerrotation': 5, 'Budrotation': 38, 'Green Fruitrotation': 9}"
+36_2019_05_25_349.jpg,"{'Bud': 30, 'Green Fruit': 25, 'Flower': 2}","{'Flowerrotation': 2, 'Green Fruitrotation': 15, 'Budrotation': 28}"
+36_2019_06_11_362.jpg,{'Green Fruit': 44},{'Green Fruitrotation': 32}
+36_2019_06_22_371.jpg,{'Green Fruit': 28},{'Green Fruitrotation': 21}
+36_2019_07_03_377.jpg,"{'Green Fruit': 1, 'Red Fruit': 6}","{'Green Fruitrotation': 1, 'Red Fruitrotation': 6}"
+36_2019_07_10_383.jpg,{},{}
+36_2020_04_20_142.jpg,{'Bud': 33},{'Budrotation': 28}
+36_2020_05_05_155.jpg,"{'Flower': 8, 'Bud': 59}","{'Flowerrotation': 6, 'Budrotation': 50}"
+36_2020_05_08_158.jpg,"{'Bud': 55, 'Flower': 7, 'Green Fruit': 8}","{'Flowerrotation': 7, 'Budrotation': 43, 'Green Fruitrotation': 5}"
+36_2020_05_09_159.jpg,"{'Flower': 8, 'Bud': 50, 'Green Fruit': 13}","{'Flowerrotation': 7, 'Budrotation': 33, 'Green Fruitrotation': 6}"
+36_2020_05_13_162.jpg,"{'Flower': 5, 'Green Fruit': 19, 'Bud': 36}","{'Flowerrotation': 4, 'Green Fruitrotation': 10, 'Budrotation': 27}"
+36_2020_05_15_164.jpg,"{'Flower': 2, 'Bud': 34, 'Green Fruit': 30}","{'Flowerrotation': 2, 'Green Fruitrotation': 22, 'Budrotation': 27}"
+36_2020_05_19_167.jpg,"{'Green Fruit': 37, 'Flower': 3, 'Bud': 20}","{'Flowerrotation': 2, 'Green Fruitrotation': 22, 'Budrotation': 19}"
+36_2020_06_04_179.jpg,"{'Red Fruit': 2, 'Green Fruit': 51}","{'Green Fruitrotation': 38, 'Red Fruitrotation': 1}"
+36_2020_06_12_187.jpg,"{'Green Fruit': 18, 'Red Fruit': 5}","{'Red Fruitrotation': 1, 'Green Fruitrotation': 2}"
+36_2020_07_15_215.jpg,{'Bud': 14},{'Budrotation': 10}
+36_2020_07_18_218.jpg,{'Bud': 15},{'Budrotation': 15}
+36_2021_04_06_403.jpg,{},{}
+36_2021_04_28_422.jpg,{'Bud': 37},{'Budrotation': 25}
+36_2021_04_29_423.jpg,{'Bud': 30},{'Budrotation': 14}
+36_2021_05_01_425.jpg,{'Bud': 50},{'Budrotation': 43}
+36_2021_05_18_438.jpg,"{'Flower': 3, 'Bud': 30, 'Green Fruit': 16}","{'Flowerrotation': 3, 'Budrotation': 26, 'Green Fruitrotation': 10}"
+36_2021_05_25_456.jpg,"{'Bud': 17, 'Green Fruit': 26}","{'Budrotation': 16, 'Green Fruitrotation': 16}"
+36_2021_06_06_451.jpg,"{'Red Fruit': 3, 'Green Fruit': 35}",{'Green Fruitrotation': 24}
+36_2021_06_07_466.jpg,"{'Red Fruit': 2, 'Green Fruit': 35}",{'Green Fruitrotation': 23}
+36_2021_06_17_462.jpg,"{'Green Fruit': 23, 'Red Fruit': 2}","{'Green Fruitrotation': 7, 'Red Fruitrotation': 1, 'Budrotation': 1}"
+36_2021_07_02_476.jpg,{'Red Fruit': 3},{'Red Fruitrotation': 1}
+36_2021_07_16_498.jpg,{},{}
+36_2021_07_19_485.jpg,{},{}
+36_2022_03_31_2.jpg,{},{}
+36_2022_04_05_4.jpg,{},{}
+36_2022_06_13_44.jpg,"{'Green Fruit': 21, 'Bud': 1}","{'Green Fruitrotation': 13, 'Budrotation': 1}"
+36_2022_06_15_46.jpg,"{'Green Fruit': 17, 'Red Fruit': 1}","{'Green Fruitrotation': 13, 'Red Fruitrotation': 1}"
+36_2022_06_23_50.jpg,"{'Green Fruit': 12, 'Red Fruit': 2}","{'Green Fruitrotation': 11, 'Red Fruitrotation': 2}"
+36_2022_06_28_54.jpg,"{'Red Fruit': 1, 'Green Fruit': 8}","{'Green Fruitrotation': 7, 'Red Fruitrotation': 1}"
+36_2022_07_01_56.jpg,"{'Green Fruit': 7, 'Red Fruit': 1}","{'Green Fruitrotation': 6, 'Red Fruitrotation': 1}"
+36_2023_04_22_74.jpg,{'Bud': 26},{'Budrotation': 21}
+36_2023_05_12_87.jpg,"{'Bud': 38, 'Green Fruit': 7, 'Flower': 1}","{'Flowerrotation': 1, 'Budrotation': 29, 'Green Fruitrotation': 1}"
+36_2023_05_20_93.jpg,"{'Bud': 32, 'Flower': 6, 'Green Fruit': 16}","{'Flowerrotation': 7, 'Budrotation': 28, 'Green Fruitrotation': 11}"
+36_2023_05_24_96.jpg,"{'Green Fruit': 21, 'Flower': 8, 'Bud': 21}","{'Flowerrotation': 5, 'Budrotation': 24, 'Green Fruitrotation': 8}"
+36_2023_05_29_100.jpg,"{'Bud': 9, 'Green Fruit': 37}","{'Budrotation': 7, 'Green Fruitrotation': 28}"
+36_2023_05_31_101.jpg,"{'Green Fruit': 40, 'Flower': 1}",{'Green Fruitrotation': 24}
+36_2023_06_03_104.jpg,{'Green Fruit': 48},{'Green Fruitrotation': 33}
+36_2023_06_30_121.jpg,{'Red Fruit': 11},{'Red Fruitrotation': 9}
+36_2023_07_01_122.jpg,"{'Red Fruit': 6, 'Green Fruit': 1}","{'Red Fruitrotation': 5, 'Green Fruitrotation': 1}"
+37_2000_03_08_3.jpg,{},{}
+37_2000_03_16_9.jpg,{},{}
+37_2000_04_03_24.jpg,{'Bud': 67},{'Budrotation': 61}
+37_2017_04_18_415.jpg,{'Bud': 25},{'Budrotation': 23}
+37_2017_05_09_418.jpg,"{'Bud': 13, 'Flower': 3, 'Green Fruit': 5}","{'Green Fruitrotation': 5, 'Flowerrotation': 3, 'Budrotation': 13}"
+37_2017_06_08_440.jpg,"{'Red Fruit': 2, 'Flower': 1, 'Bud': 4, 'Green Fruit': 29}","{'Flowerrotation': 1, 'Green Fruitrotation': 21, 'Red Fruitrotation': 2, 'Budrotation': 4}"
+37_2017_06_24_454.jpg,"{'Green Fruit': 17, 'Red Fruit': 3}","{'Green Fruitrotation': 11, 'Red Fruitrotation': 3}"
+37_2017_07_10_467.jpg,{'Green Fruit': 1},{'Green Fruitrotation': 1}
+37_2018_06_12_57.jpg,"{'Green Fruit': 23, 'Red Fruit': 3}","{'Green Fruitrotation': 14, 'Red Fruitrotation': 2}"
+37_2018_06_22_66.jpg,"{'Red Fruit': 4, 'Green Fruit': 4}","{'Red Fruitrotation': 4, 'Green Fruitrotation': 4}"
+37_2019_05_17_120.jpg,"{'Flower': 7, 'Bud': 23, 'Green Fruit': 19}","{'Flowerrotation': 7, 'Green Fruitrotation': 10, 'Budrotation': 16, 'Red Fruitrotation': 1}"
+37_2019_05_23_125.jpg,"{'Flower': 5, 'Bud': 8, 'Green Fruit': 40}","{'Flowerrotation': 4, 'Green Fruitrotation': 25, 'Budrotation': 6}"
+37_2019_05_24_126.jpg,"{'Flower': 6, 'Bud': 3, 'Green Fruit': 38}","{'Flowerrotation': 4, 'Green Fruitrotation': 24, 'Budrotation': 3}"
+37_2019_05_29_129.jpg,"{'Green Fruit': 40, 'Bud': 1}","{'Green Fruitrotation': 26, 'Budrotation': 2}"
+37_2019_06_12_141.jpg,{'Green Fruit': 42},"{'Green Fruitrotation': 33, 'Budrotation': 1}"
+37_2019_07_06_159.jpg,{},{}
+37_2020_04_08_472.jpg,{},{}
+37_2020_04_21_482.jpg,{'Bud': 16},{'Budrotation': 15}
+37_2020_04_22_483.jpg,{'Bud': 8},{'Budrotation': 5}
+37_2020_04_27_487.jpg,{'Bud': 30},{'Budrotation': 18}
+37_2020_05_15_503.jpg,"{'Bud': 5, 'Green Fruit': 34}","{'Budrotation': 2, 'Green Fruitrotation': 22}"
+37_2020_06_04_520.jpg,{'Green Fruit': 41},{'Green Fruitrotation': 28}
+37_2020_06_19_534.jpg,"{'Green Fruit': 4, 'Red Fruit': 10}","{'Red Fruitrotation': 6, 'Green Fruitrotation': 3}"
+37_2020_07_08_552.jpg,{},{}
+37_2020_07_15_558.jpg,{},{}
+37_2021_04_09_183.jpg,{},{}
+37_2021_04_12_185.jpg,{},{}
+37_2021_04_13_186.jpg,{'Bud': 3},{}
+37_2021_04_20_192.jpg,{'Bud': 15},{'Budrotation': 6}
+37_2021_04_29_201.jpg,{'Bud': 34},{'Budrotation': 4}
+37_2021_05_05_208.jpg,{'Bud': 79},{'Budrotation': 69}
+37_2021_05_30_225.jpg,{'Green Fruit': 58},{'Green Fruitrotation': 36}
+37_2021_06_06_233.jpg,{'Green Fruit': 50},{'Green Fruitrotation': 35}
+37_2021_06_10_236.jpg,{'Green Fruit': 39},{'Green Fruitrotation': 16}
+37_2021_07_03_256.jpg,{},{}
+37_2022_04_20_278.jpg,{'Bud': 8},{'Budrotation': 6}
+37_2022_04_25_282.jpg,{'Bud': 13},{'Budrotation': 6}
+37_2022_07_09_332.jpg,{},{}
+37_2022_07_13_334.jpg,{},{}
+37_2023_05_16_361.jpg,"{'Green Fruit': 8, 'Bud': 31, 'Flower': 6}","{'Flowerrotation': 4, 'Budrotation': 8}"
+37_2023_05_24_368.jpg,"{'Green Fruit': 36, 'Flower': 4, 'Bud': 6}","{'Flowerrotation': 2, 'Green Fruitrotation': 21, 'Budrotation': 5}"
+37_2023_05_26_370.jpg,"{'Green Fruit': 42, 'Flower': 4, 'Bud': 3}","{'Green Fruitrotation': 26, 'Flowerrotation': 4, 'Budrotation': 3}"
+37_2023_06_21_389.jpg,"{'Green Fruit': 20, 'Red Fruit': 5}","{'Red Fruitrotation': 3, 'Green Fruitrotation': 15}"
+37_2023_07_05_394.jpg,{'Red Fruit': 2},{'Red Fruitrotation': 1}
+3_2000_03_16_114.jpg,{},{}
+3_2000_03_18_129.jpg,{},{}
+3_2000_04_11_166.jpg,{},{}
+3_2000_04_12_151.jpg,{},{}
+3_2018_06_21_168.jpg,{},{'Red Fruitrotation': 1}
+3_2018_06_22_186.jpg,{},{}
+3_2019_04_09_258.jpg,{},{}
+3_2019_04_20_268.jpg,{},{}
+3_2019_04_29_275.jpg,{},{}
+3_2019_05_02_278.jpg,{},{}
+3_2019_05_09_285.jpg,{},{}
+3_2019_06_08_311.jpg,{'Flower': 1},{'Flowerrotation': 1}
+3_2019_06_13_315.jpg,{},{}
+3_2019_07_05_330.jpg,{},{}
+3_2019_07_30_350.jpg,{},{}
+3_2020_05_08_382.jpg,{},{}
+3_2020_06_10_410.jpg,{},{}
+3_2020_06_17_416.jpg,{},{}
+3_2020_07_24_447.jpg,{},{}
+3_2021_04_06_71.jpg,{},{}
+3_2021_04_28_60.jpg,{'Bud': 20},{'Budrotation': 4}
+3_2021_05_03_42.jpg,{'Bud': 28},{'Budrotation': 10}
+3_2021_05_20_53.jpg,"{'Bud': 40, 'Green Fruit': 15}","{'Budrotation': 33, 'Green Fruitrotation': 8}"
+3_2021_05_27_87.jpg,"{'Green Fruit': 17, 'Bud': 2}","{'Green Fruitrotation': 7, 'Budrotation': 1}"
+3_2021_06_12_95.jpg,{'Green Fruit': 13},{'Green Fruitrotation': 5}
+3_2021_07_02_31.jpg,{},{}
+3_2021_07_16_8.jpg,{},{}
+3_2022_04_18_200.jpg,{},{}
+3_2022_04_19_201.jpg,{},{}
+3_2022_04_20_202.jpg,{},{}
+3_2022_04_28_208.jpg,{},{}
+3_2022_05_16_219.jpg,{},{}
+3_2022_05_19_221.jpg,{},{}
+3_2022_05_21_223.jpg,{},{}
+3_2022_05_23_224.jpg,{},{}
+3_2022_06_11_236.jpg,{},{}
+3_2022_06_21_243.jpg,{},{}
+3_2022_07_01_250.jpg,{},{}
+3_2023_05_22_485.jpg,"{'Green Fruit': 9, 'Flower': 7, 'Bud': 25}","{'Flowerrotation': 6, 'Budrotation': 21, 'Green Fruitrotation': 8}"
+3_2023_05_25_492.jpg,"{'Green Fruit': 19, 'Bud': 22, 'Flower': 7}","{'Flowerrotation': 6, 'Budrotation': 14, 'Green Fruitrotation': 6}"
+3_2023_06_06_503.jpg,"{'Green Fruit': 44, 'Bud': 1}","{'Green Fruitrotation': 27, 'Budrotation': 1}"
+3_2023_06_07_504.jpg,{'Green Fruit': 37},"{'Green Fruitrotation': 26, 'Budrotation': 1}"
+3_2023_06_08_505.jpg,{'Green Fruit': 40},{'Green Fruitrotation': 26}
+3_2023_06_23_514.jpg,"{'Green Fruit': 28, 'Red Fruit': 3}","{'Green Fruitrotation': 16, 'Red Fruitrotation': 1}"
+44_2000_03_28_441.jpg,{'Bud': 20},{'Budrotation': 16}
+44_2000_04_04_447.jpg,{'Bud': 26},{'Budrotation': 24}
+44_2017_04_20_505.jpg,{},{}
+44_2017_05_06_538.jpg,{'Bud': 35},{'Budrotation': 28}
+44_2017_05_09_518.jpg,{'Bud': 22},{'Budrotation': 18}
+44_2017_06_02_537.jpg,"{'Bud': 17, 'Flower': 1, 'Green Fruit': 17}","{'Green Fruitrotation': 11, 'Flowerrotation': 2, 'Budrotation': 9}"
+44_2017_06_03_539.jpg,"{'Green Fruit': 21, 'Bud': 17}","{'Green Fruitrotation': 14, 'Budrotation': 11}"
+44_2017_06_17_551.jpg,"{'Green Fruit': 24, 'Bud': 1, 'Flower': 2}","{'Flowerrotation': 2, 'Green Fruitrotation': 16, 'Budrotation': 1}"
+44_2017_06_22_556.jpg,"{'Green Fruit': 22, 'Red Fruit': 3}","{'Green Fruitrotation': 16, 'Red Fruitrotation': 1}"
+44_2017_06_26_560.jpg,"{'Red Fruit': 5, 'Green Fruit': 6}",{'Red Fruitrotation': 1}
+44_2018_05_25_464.jpg,{'Green Fruit': 7},{'Green Fruitrotation': 5}
+44_2018_05_28_466.jpg,{'Green Fruit': 7},{'Green Fruitrotation': 5}
+44_2018_05_31_469.jpg,{'Green Fruit': 7},{'Green Fruitrotation': 6}
+44_2018_06_04_471.jpg,{'Green Fruit': 7},{'Green Fruitrotation': 6}
+44_2018_06_19_482.jpg,"{'Red Fruit': 5, 'Green Fruit': 1}","{'Red Fruitrotation': 5, 'Green Fruitrotation': 1}"
+44_2018_07_07_497.jpg,{},{}
+44_2019_04_17_173.jpg,{},{}
+44_2019_04_23_178.jpg,{'Bud': 4},{'Budrotation': 2}
+44_2019_04_26_180.jpg,{'Bud': 4},{}
+44_2019_05_22_200.jpg,"{'Bud': 9, 'Green Fruit': 1}","{'Green Fruitrotation': 1, 'Budrotation': 9}"
+44_2019_06_14_220.jpg,{'Green Fruit': 1},{'Green Fruitrotation': 1}
+44_2019_06_28_228.jpg,{'Bud': 1},{}
+44_2019_07_03_232.jpg,{'Bud': 1},{'Budrotation': 1}
+44_2019_07_22_246.jpg,{},{}
+44_2019_08_02_253.jpg,{},{}
+44_2020_04_17_81.jpg,{},{}
+44_2020_04_20_83.jpg,{},{}
+44_2020_05_09_102.jpg,"{'Green Fruit': 2, 'Flower': 1, 'Bud': 35}","{'Budrotation': 14, 'Flowerrotation': 1, 'Green Fruitrotation': 1}"
+44_2020_06_02_120.jpg,{'Green Fruit': 13},"{'Green Fruitrotation': 10, 'Red Fruitrotation': 1}"
+44_2021_04_16_266.jpg,{},{}
+44_2021_04_27_277.jpg,{'Bud': 44},{'Budrotation': 11}
+44_2021_05_01_281.jpg,{'Bud': 49},{'Budrotation': 27}
+44_2021_06_17_328.jpg,"{'Red Fruit': 3, 'Green Fruit': 17}","{'Green Fruitrotation': 7, 'Red Fruitrotation': 2}"
+44_2021_07_12_346.jpg,{},{}
+44_2021_07_15_348.jpg,{},{}
+44_2022_03_30_355.jpg,{},{}
+44_2022_04_18_365.jpg,{},{}
+44_2022_04_27_372.jpg,{'Bud': 1},{'Budrotation': 1}
+44_2022_04_28_373.jpg,{},{}
+44_2022_05_19_386.jpg,{'Bud': 10},{'Budrotation': 7}
+44_2022_05_25_392.jpg,"{'Bud': 5, 'Flower': 1}","{'Flowerrotation': 1, 'Budrotation': 4}"
+44_2022_06_18_407.jpg,{'Green Fruit': 3},{'Green Fruitrotation': 2}
+44_2022_06_25_411.jpg,{'Red Fruit': 3},{'Red Fruitrotation': 1}
+44_2023_05_11_22.jpg,"{'Bud': 34, 'Flower': 4}","{'Flowerrotation': 4, 'Budrotation': 29}"
+44_2023_05_12_23.jpg,"{'Bud': 46, 'Flower': 1}",{'Budrotation': 30}
+44_2023_06_09_49.jpg,"{'Green Fruit': 55, 'Bud': 2}","{'Green Fruitrotation': 34, 'Budrotation': 1}"
+44_2023_06_15_53.jpg,"{'Green Fruit': 44, 'Red Fruit': 5}","{'Green Fruitrotation': 21, 'Red Fruitrotation': 3}"
+44_2023_06_27_60.jpg,"{'Green Fruit': 28, 'Red Fruit': 12}","{'Green Fruitrotation': 19, 'Red Fruitrotation': 7}"
+45_2000_03_13_331.jpg,{},{}
+45_2000_03_20_339.jpg,{},{'Budrotation': 3}
+45_2000_03_23_343.jpg,{'Bud': 24},{'Budrotation': 21}
+45_2000_04_03_353.jpg,{'Bud': 63},{'Budrotation': 51}
+45_2000_04_04_354.jpg,{'Bud': 85},{'Budrotation': 73}
+45_2000_04_10_361.jpg,"{'Flower': 15, 'Bud': 86}","{'Flowerrotation': 11, 'Budrotation': 67}"
+45_2000_04_10_362.jpg,"{'Bud': 66, 'Flower': 19, 'Green Fruit': 1}","{'Flowerrotation': 12, 'Budrotation': 46}"
+45_2017_04_24_528.jpg,"{'Bud': 46, 'Flower': 3}","{'Budrotation': 39, 'Flowerrotation': 3}"
+45_2017_04_28_533.jpg,"{'Bud': 34, 'Green Fruit': 3, 'Flower': 3}","{'Budrotation': 28, 'Green Fruitrotation': 2, 'Flowerrotation': 2}"
+45_2017_05_23_568.jpg,"{'Green Fruit': 28, 'Flower': 3, 'Bud': 6}","{'Green Fruitrotation': 15, 'Flowerrotation': 2, 'Budrotation': 6}"
+45_2017_05_24_569.jpg,"{'Green Fruit': 22, 'Flower': 1, 'Bud': 4}","{'Green Fruitrotation': 16, 'Budrotation': 3, 'Flowerrotation': 1}"
+45_2017_05_26_572.jpg,"{'Green Fruit': 31, 'Bud': 2}","{'Green Fruitrotation': 19, 'Budrotation': 2}"
+45_2017_06_29_600.jpg,{},{}
+45_2018_05_24_381.jpg,"{'Green Fruit': 26, 'Flower': 2, 'Bud': 6}","{'Green Fruitrotation': 18, 'Flowerrotation': 2, 'Budrotation': 2}"
+45_2018_05_30_387.jpg,"{'Green Fruit': 37, 'Bud': 1, 'Flower': 1}","{'Green Fruitrotation': 23, 'Budrotation': 1}"
+45_2018_06_19_402.jpg,"{'Green Fruit': 18, 'Red Fruit': 7}","{'Red Fruitrotation': 9, 'Green Fruitrotation': 6}"
+45_2018_06_29_411.jpg,{},{}
+45_2019_04_16_430.jpg,{'Bud': 10},{'Budrotation': 15}
+45_2019_04_17_431.jpg,{'Bud': 15},{'Budrotation': 21}
+45_2019_05_22_466.jpg,"{'Flower': 12, 'Bud': 11, 'Green Fruit': 17}","{'Flowerrotation': 11, 'Green Fruitrotation': 12, 'Budrotation': 7}"
+45_2019_06_07_480.jpg,{'Green Fruit': 30},{'Green Fruitrotation': 18}
+45_2019_06_17_488.jpg,"{'Green Fruit': 10, 'Red Fruit': 10}","{'Green Fruitrotation': 8, 'Red Fruitrotation': 7}"
+45_2019_07_02_499.jpg,{},{}
+45_2019_07_04_501.jpg,{},{}
+45_2019_07_08_516.jpg,{},{}
+45_2019_07_18_511.jpg,{},{}
+45_2019_07_30_519.jpg,{},{}
+45_2020_04_14_239.jpg,{},{}
+45_2020_04_20_244.jpg,{'Bud': 10},{'Budrotation': 9}
+45_2020_04_25_249.jpg,{'Bud': 21},{'Budrotation': 19}
+45_2020_05_06_258.jpg,"{'Bud': 54, 'Flower': 3}","{'Budrotation': 44, 'Flowerrotation': 3}"
+45_2020_05_07_259.jpg,"{'Bud': 58, 'Flower': 3}","{'Flowerrotation': 3, 'Budrotation': 40}"
+45_2020_05_08_260.jpg,"{'Bud': 56, 'Flower': 4}","{'Flowerrotation': 3, 'Budrotation': 50}"
+45_2020_05_09_261.jpg,"{'Green Fruit': 3, 'Flower': 9, 'Bud': 45}","{'Flowerrotation': 8, 'Budrotation': 31, 'Green Fruitrotation': 1}"
+45_2020_06_24_299.jpg,{'Green Fruit': 5},{}
+45_2020_07_09_313.jpg,{},{}
+45_2020_07_11_314.jpg,{},{}
+45_2020_07_25_325.jpg,{},{}
+45_2021_03_30_135.jpg,{},{}
+45_2021_04_18_146.jpg,{'Bud': 8},{'Budrotation': 4}
+45_2021_04_19_147.jpg,{'Bud': 18},{'Budrotation': 15}
+45_2021_04_22_150.jpg,{'Bud': 29},{'Budrotation': 24}
+45_2021_04_28_156.jpg,{'Bud': 80},{'Budrotation': 60}
+45_2021_05_20_180.jpg,"{'Flower': 5, 'Bud': 26, 'Green Fruit': 23}","{'Flowerrotation': 3, 'Green Fruitrotation': 9, 'Budrotation': 22}"
+45_2021_06_06_193.jpg,"{'Green Fruit': 42, 'Bud': 1}","{'Green Fruitrotation': 22, 'Budrotation': 1}"
+45_2021_06_17_205.jpg,"{'Green Fruit': 15, 'Red Fruit': 6}","{'Green Fruitrotation': 9, 'Red Fruitrotation': 5}"
+45_2021_06_19_206.jpg,"{'Green Fruit': 16, 'Red Fruit': 4}","{'Red Fruitrotation': 3, 'Green Fruitrotation': 8}"
+45_2021_07_03_218.jpg,{},{}
+45_2021_07_09_221.jpg,{},{}
+45_2022_04_11_73.jpg,{},{}
+45_2022_05_17_97.jpg,"{'Bud': 26, 'Flower': 3}","{'Flowerrotation': 4, 'Budrotation': 20}"
+45_2022_06_18_119.jpg,"{'Green Fruit': 9, 'Red Fruit': 3}","{'Green Fruitrotation': 8, 'Red Fruitrotation': 3}"
+45_2022_07_02_128.jpg,{},{}
+45_2022_07_07_130.jpg,{},{}
+45_2023_04_22_11.jpg,{'Bud': 14},{'Budrotation': 13}
+45_2023_05_24_35.jpg,"{'Bud': 27, 'Green Fruit': 38, 'Flower': 8}","{'Flowerrotation': 9, 'Green Fruitrotation': 18, 'Budrotation': 20}"
+45_2023_06_15_53.jpg,"{'Red Fruit': 15, 'Green Fruit': 36}","{'Green Fruitrotation': 23, 'Red Fruitrotation': 7}"
+45_2023_06_27_59.jpg,"{'Red Fruit': 12, 'Green Fruit': 7}","{'Red Fruitrotation': 10, 'Green Fruitrotation': 8}"
+45_2023_06_30_60.jpg,"{'Red Fruit': 7, 'Green Fruit': 4}","{'Green Fruitrotation': 4, 'Red Fruitrotation': 4}"
+46_2000_03_11_564.jpg,{},{'Budrotation': 1}
+46_2000_03_21_574.jpg,{'Bud': 45},{'Budrotation': 44}
+46_2000_03_27_579.jpg,{'Bud': 70},{'Budrotation': 54}
+46_2000_03_28_581.jpg,{'Bud': 69},{'Budrotation': 57}
+46_2000_04_04_587.jpg,"{'Bud': 53, 'Green Fruit': 1, 'Flower': 4}","{'Flowerrotation': 4, 'Budrotation': 45, 'Green Fruitrotation': 1}"
+46_2000_04_05_589.jpg,"{'Bud': 66, 'Flower': 9}","{'Flowerrotation': 6, 'Budrotation': 46, 'Green Fruitrotation': 1}"
+46_2015_01_01_2.jpg,"{'Red Fruit': 4, 'Green Fruit': 4}","{'Green Fruitrotation': 2, 'Red Fruitrotation': 3}"
+46_2017_04_19_104.jpg,{'Bud': 71},{'Budrotation': 31}
+46_2017_05_03_94.jpg,"{'Bud': 18, 'Green Fruit': 16, 'Flower': 2}","{'Green Fruitrotation': 7, 'Budrotation': 12, 'Flowerrotation': 1}"
+46_2017_05_10_114.jpg,"{'Flower': 5, 'Bud': 6, 'Green Fruit': 21}","{'Green Fruitrotation': 14, 'Flowerrotation': 4, 'Budrotation': 7}"
+46_2017_05_25_128.jpg,"{'Green Fruit': 32, 'Bud': 1}","{'Green Fruitrotation': 22, 'Budrotation': 1}"
+46_2017_06_16_145.jpg,"{'Green Fruit': 5, 'Red Fruit': 3}","{'Green Fruitrotation': 4, 'Red Fruitrotation': 3}"
+46_2017_06_22_151.jpg,{'Green Fruit': 2},{'Green Fruitrotation': 2}
+46_2018_05_22_611.jpg,"{'Green Fruit': 17, 'Bud': 1}","{'Green Fruitrotation': 11, 'Budrotation': 1}"
+46_2018_06_15_632.jpg,"{'Green Fruit': 3, 'Red Fruit': 6}","{'Green Fruitrotation': 3, 'Red Fruitrotation': 5}"
+46_2018_06_18_634.jpg,"{'Green Fruit': 3, 'Red Fruit': 2}","{'Red Fruitrotation': 1, 'Green Fruitrotation': 2}"
+46_2018_06_21_637.jpg,"{'Red Fruit': 2, 'Green Fruit': 1}","{'Red Fruitrotation': 2, 'Green Fruitrotation': 1}"
+46_2018_06_27_642.jpg,{},{}
+46_2018_06_30_645.jpg,{},{}
+46_2018_07_10_652.jpg,{},{}
+46_2019_04_18_282.jpg,{'Bud': 47},"{'Budrotation': 27, 'Flowerrotation': 1}"
+46_2019_06_05_325.jpg,"{'Green Fruit': 23, 'Red Fruit': 1}",{'Green Fruitrotation': 16}
+46_2019_06_15_334.jpg,"{'Green Fruit': 12, 'Red Fruit': 1}","{'Red Fruitrotation': 1, 'Green Fruitrotation': 5}"
+46_2019_06_19_337.jpg,"{'Red Fruit': 4, 'Green Fruit': 7}","{'Green Fruitrotation': 6, 'Red Fruitrotation': 4}"
+46_2019_06_29_344.jpg,{'Red Fruit': 1},{'Red Fruitrotation': 1}
+46_2019_07_09_351.jpg,{},{}
+46_2019_07_18_358.jpg,{},{}
+46_2019_07_24_361.jpg,{},{}
+46_2019_07_26_363.jpg,{},{}
+46_2020_04_16_380.jpg,{'Bud': 68},{'Budrotation': 56}
+46_2020_04_21_386.jpg,"{'Bud': 65, 'Flower': 2}","{'Flowerrotation': 2, 'Budrotation': 54}"
+46_2020_04_27_397.jpg,"{'Bud': 32, 'Green Fruit': 14, 'Flower': 12}","{'Flowerrotation': 9, 'Budrotation': 22, 'Green Fruitrotation': 8}"
+46_2020_04_29_401.jpg,"{'Bud': 44, 'Flower': 10, 'Green Fruit': 15}","{'Flowerrotation': 4, 'Budrotation': 23, 'Green Fruitrotation': 8}"
+46_2020_05_06_407.jpg,"{'Green Fruit': 31, 'Flower': 2, 'Bud': 27}","{'Green Fruitrotation': 12, 'Flowerrotation': 2, 'Budrotation': 20}"
+46_2020_05_30_429.jpg,"{'Green Fruit': 38, 'Red Fruit': 5, 'Bud': 1}","{'Green Fruitrotation': 15, 'Red Fruitrotation': 3}"
+46_2020_06_04_436.jpg,"{'Green Fruit': 21, 'Red Fruit': 8}","{'Green Fruitrotation': 8, 'Red Fruitrotation': 3}"
+46_2020_06_08_440.jpg,"{'Red Fruit': 3, 'Green Fruit': 14}","{'Red Fruitrotation': 3, 'Budrotation': 1, 'Green Fruitrotation': 5}"
+46_2020_06_11_444.jpg,"{'Red Fruit': 5, 'Green Fruit': 10}","{'Green Fruitrotation': 5, 'Red Fruitrotation': 5}"
+46_2020_07_08_466.jpg,{},{}
+46_2020_07_10_468.jpg,{},{}
+46_2020_07_13_470.jpg,{},{}
+46_2020_07_17_515.jpg,{},{}
+46_2021_03_30_165.jpg,{'Bud': 20},{'Budrotation': 15}
+46_2021_04_06_196.jpg,{'Bud': 88},{'Budrotation': 81}
+46_2021_04_08_170.jpg,{'Bud': 76},{'Budrotation': 22}
+46_2021_04_09_171.jpg,{'Bud': 70},{'Budrotation': 9}
+46_2021_04_18_178.jpg,"{'Bud': 105, 'Flower': 5}","{'Flowerrotation': 4, 'Budrotation': 71}"
+46_2021_04_19_183.jpg,"{'Bud': 70, 'Flower': 13}","{'Flowerrotation': 10, 'Budrotation': 51}"
+46_2021_04_21_192.jpg,"{'Bud': 111, 'Flower': 6}","{'Budrotation': 72, 'Flowerrotation': 5}"
+46_2021_05_06_206.jpg,"{'Bud': 62, 'Flower': 5, 'Green Fruit': 26}","{'Flowerrotation': 2, 'Budrotation': 41, 'Green Fruitrotation': 10}"
+46_2021_05_20_219.jpg,"{'Flower': 3, 'Green Fruit': 50, 'Bud': 7}","{'Flowerrotation': 1, 'Budrotation': 4, 'Green Fruitrotation': 20}"
+46_2021_05_31_228.jpg,"{'Green Fruit': 28, 'Red Fruit': 5, 'Bud': 3}","{'Green Fruitrotation': 19, 'Red Fruitrotation': 3, 'Budrotation': 2}"
+46_2021_06_02_231.jpg,"{'Green Fruit': 24, 'Bud': 1, 'Red Fruit': 1}","{'Green Fruitrotation': 9, 'Red Fruitrotation': 1, 'Budrotation': 1}"
+46_2021_06_15_241.jpg,"{'Green Fruit': 5, 'Red Fruit': 1, 'Bud': 1}","{'Red Fruitrotation': 1, 'Green Fruitrotation': 2}"
+46_2021_07_08_259.jpg,{},{}
+46_2021_07_13_263.jpg,{},{}
+46_2021_07_16_265.jpg,{},{}
+46_2022_03_31_483.jpg,{'Bud': 7},{'Budrotation': 3}
+46_2022_04_11_488.jpg,{'Bud': 32},{'Budrotation': 29}
+46_2022_04_21_497.jpg,{'Bud': 46},{'Budrotation': 37}
+46_2022_04_25_505.jpg,{'Bud': 53},{'Budrotation': 44}
+46_2022_04_29_510.jpg,"{'Green Fruit': 4, 'Bud': 35, 'Flower': 2}","{'Budrotation': 29, 'Flowerrotation': 2, 'Green Fruitrotation': 1}"
+46_2022_04_30_511.jpg,"{'Bud': 26, 'Flower': 1, 'Green Fruit': 1}","{'Flowerrotation': 1, 'Budrotation': 16}"
+46_2022_05_02_514.jpg,"{'Bud': 32, 'Green Fruit': 5, 'Flower': 1}","{'Flowerrotation': 1, 'Budrotation': 24, 'Green Fruitrotation': 2}"
+46_2022_05_13_521.jpg,"{'Bud': 7, 'Green Fruit': 14}","{'Green Fruitrotation': 11, 'Budrotation': 4, 'Flowerrotation': 1}"
+46_2022_05_19_525.jpg,{'Green Fruit': 16},{'Green Fruitrotation': 13}
+46_2022_06_13_542.jpg,{'Green Fruit': 4},"{'Budrotation': 3, 'Green Fruitrotation': 1}"
+46_2022_06_17_545.jpg,{},{}
+46_2022_06_18_546.jpg,{},{}
+46_2023_04_03_4.jpg,{},{}
+46_2023_04_08_7.jpg,{'Bud': 59},{'Budrotation': 50}
+46_2023_04_13_10.jpg,{'Bud': 91},{'Budrotation': 66}
+46_2023_05_09_36.jpg,"{'Flower': 3, 'Bud': 35, 'Green Fruit': 30}","{'Red Fruitrotation': 5, 'Budrotation': 28, 'Green Fruitrotation': 15, 'Flowerrotation': 3}"
+46_2023_05_27_53.jpg,"{'Green Fruit': 58, 'Red Fruit': 2, 'Bud': 9}","{'Green Fruitrotation': 26, 'Budrotation': 5, 'Red Fruitrotation': 1, 'Flowerrotation': 1}"
+46_2023_06_20_73.jpg,"{'Green Fruit': 17, 'Red Fruit': 5}","{'Green Fruitrotation': 11, 'Red Fruitrotation': 4, 'Budrotation': 1}"
+46_2023_06_21_74.jpg,"{'Green Fruit': 13, 'Red Fruit': 3}","{'Green Fruitrotation': 10, 'Red Fruitrotation': 3}"
+9_2000_03_13_161.jpg,{},{}
+9_2000_03_18_165.jpg,{},{}
+9_2000_03_19_166.jpg,{},{}
+9_2000_03_26_173.jpg,{},{}
+9_2000_03_27_174.jpg,{},{}
+9_2000_04_09_185.jpg,{},{}
+9_2018_05_22_196.jpg,{'Bud': 1},{}
+9_2018_05_28_202.jpg,{'Bud': 1},{'Budrotation': 1}
+9_2018_05_29_203.jpg,{'Bud': 1},{'Budrotation': 1}
+9_2018_06_06_212.jpg,{'Bud': 1},{'Budrotation': 1}
+9_2018_06_12_217.jpg,{},{}
+9_2018_06_16_221.jpg,{},{}
+9_2018_06_19_223.jpg,{},{'Red Fruitrotation': 1}
+9_2018_06_20_224.jpg,{},{}
+9_2018_06_21_225.jpg,{},{}
+9_2018_07_05_236.jpg,{},{}
+9_2019_04_27_262.jpg,{},{}
+9_2019_04_29_263.jpg,{},{}
+9_2019_05_10_272.jpg,{},{}
+9_2019_05_15_276.jpg,{},{}
+9_2019_05_27_286.jpg,{},{}
+9_2019_06_05_294.jpg,{},{}
+9_2019_07_03_314.jpg,{},{}
+9_2019_07_04_315.jpg,{},{}
+9_2019_07_06_317.jpg,{},{}
+9_2019_07_09_319.jpg,{},{}
+9_2019_07_18_327.jpg,{},{}
+9_2019_08_02_335.jpg,{},{}
+9_2020_04_06_336.jpg,{},{}
+9_2020_04_08_338.jpg,{},{}
+9_2020_05_01_362.jpg,{},{}
+9_2020_05_26_382.jpg,"{'Bud': 11, 'Green Fruit': 3, 'Flower': 2}","{'Flowerrotation': 2, 'Budrotation': 7, 'Green Fruitrotation': 3}"
+9_2020_05_27_383.jpg,"{'Bud': 9, 'Green Fruit': 3, 'Flower': 1}",{}
+9_2020_06_01_387.jpg,{'Green Fruit': 8},{'Green Fruitrotation': 3}
+9_2020_06_02_388.jpg,{'Green Fruit': 7},{'Green Fruitrotation': 7}
+9_2020_06_11_397.jpg,{'Green Fruit': 7},{'Green Fruitrotation': 7}
+9_2020_06_24_408.jpg,"{'Red Fruit': 1, 'Green Fruit': 4}",{}
+9_2020_06_27_412.jpg,"{'Red Fruit': 3, 'Green Fruit': 1}","{'Red Fruitrotation': 3, 'Green Fruitrotation': 1}"
+9_2020_07_21_432.jpg,{},{}
+9_2020_07_24_434.jpg,{},{}
+9_2021_04_06_69.jpg,{'Bud': 1},{}
+9_2021_04_16_78.jpg,{'Bud': 6},{}
+9_2021_05_08_98.jpg,"{'Bud': 23, 'Green Fruit': 5}",{'Budrotation': 4}
+9_2021_06_18_131.jpg,"{'Green Fruit': 13, 'Red Fruit': 5}","{'Red Fruitrotation': 5, 'Green Fruitrotation': 5}"
+9_2021_06_22_135.jpg,"{'Red Fruit': 13, 'Green Fruit': 2}","{'Red Fruitrotation': 9, 'Green Fruitrotation': 1}"
+9_2021_07_01_144.jpg,{'Red Fruit': 3},{'Red Fruitrotation': 3}
+9_2021_07_09_146.jpg,{},{}
+9_2022_03_31_2.jpg,{},{}
+9_2022_06_08_44.jpg,{'Bud': 5},{'Budrotation': 5}
+9_2022_07_01_58.jpg,{},{}
+9_2022_07_09_63.jpg,{},{}
+9_2023_04_13_441.jpg,{'Bud': 21},{'Budrotation': 13}
+9_2023_05_01_453.jpg,"{'Bud': 43, 'Flower': 8}","{'Flowerrotation': 7, 'Budrotation': 21}"
+9_2023_05_02_454.jpg,"{'Flower': 8, 'Bud': 52}","{'Flowerrotation': 5, 'Budrotation': 26}"
+9_2023_05_09_458.jpg,"{'Green Fruit': 12, 'Bud': 44}",{'Budrotation': 23}
+9_2023_05_11_459.jpg,"{'Green Fruit': 13, 'Bud': 47, 'Flower': 3}","{'Green Fruitrotation': 4, 'Budrotation': 4, 'Flowerrotation': 1}"
+9_2023_05_12_460.jpg,{},{}
+9_2023_05_23_471.jpg,{},"{'Budrotation': 10, 'Green Fruitrotation': 5, 'Flowerrotation': 1}"
+9_2023_05_25_473.jpg,{},{'Green Fruitrotation': 2}
